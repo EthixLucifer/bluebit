@@ -2,4 +2,5 @@ def main(private field reportHash, private field isNotRevoked, field publicHash,
     field isValidHash = if reportHash == publicHash {1} else {0};
     field isValidRevocationStatus = if isNotRevoked == validNotRevoked {1} else {0};
     return isValidHash * isValidRevocationStatus;
+
 }
