@@ -3,22 +3,22 @@
     "curve": "bn128",
     "proof": {
       "a": [
-        "0x0adae21c1b0ffab235cec075904594f3be8058dfd736766720136c57ea97ac9d",
-        "0x2897a2fd7a8f369b7b9facaec4bf5c825512cf399b9b849a631d6b3e703bfe08"
+        "0x2c1bb1343121e45ef7aa89c61ec431319abf10f290f67658860ef3a8b9a835d6",
+        "0x2e79b0808d6b95416345ad7af0bdfb48c834a9c30d7d24a5b2ac4e5d049c8246"
       ],
       "b": [
         [
-          "0x196dc4eb1bf226641db5fbd2011eb63ef08db543abd506d13f1ffb9afe77ba0c",
-          "0x1d4498b11a3246729f66db493731a610089d38f6240c84e8f2aab3799f64b8c3"
+          "0x2120c02726b582cd8eb6c4c572e3821ac84078c4dcc3084f707f8769f8230d3a",
+          "0x0854ab5cf77a6cd7c8b23f5d304206ccea020639b819c8631e77fb3707439531"
         ],
         [
-          "0x0360df124b7c94d2595568938b95f6c92335896aa5ce8276283f7cc7dcfa71a7",
-          "0x1d48c6be335aa0dd599fae47fa30e1a6714db711cfd80753014e474c4aff9cdb"
+          "0x0522e8d72874089ea2e115a64c18e0e5a68bd0919b55d6d2882798c79f58a9ff",
+          "0x05f45de5dcc8027588977aeb5a86e3572d4c098afb6010ffe872e74f78bb6eee"
         ]
       ],
       "c": [
-        "0x2ffd4cf22f81c98d7ccfddec189a211f85093db984363cffaac497af58a204f2",
-        "0x175c6c906ba8a7cfbf4fae4a116fae08c1239309766d8ee8516e9d201dd4bc41"
+        "0x137d8d8a4e01c291af8979e27a20e597cb868288fcbc5e1c9d088b1d94a44c74",
+        "0x036fc61bfefe69e08cfadfae338399aee58150f2c03a4cdeb4a9242d642ee3b5"
       ]
     },
     "inputs": [
